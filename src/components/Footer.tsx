@@ -8,8 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="md:col-span-1">
             <a href="#" className="flex items-center gap-2 mb-3">
-              <img src={logo} alt="Dev Stack" className="h-7 w-7" />
-              <span className="font-bold text-gray-900 text-lg">Dev Stack</span>
+              <img src={logo} alt="Dev Stack" className="h-8 w-30" />
             </a>
             <p className="text-gray-400 text-sm mb-4 leading-relaxed">
               Curated tools, technologies, and resources for developers building
