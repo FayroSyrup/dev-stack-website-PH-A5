@@ -1,13 +1,11 @@
+import Navbar from "./components/Navbar";
 
 function App() {
-
   return (
-    <>
     <div className="min-h-screen bg-white">
-      <h1>Dev Stack Builder</h1>
+      <Navbar />
     </div>
-    </>
-  )
+  );
 }
 
-export default App
+export default App;
