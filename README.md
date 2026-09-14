@@ -4,7 +4,7 @@ A modern, responsive web application where developers can explore popular techno
 
 ## 🔗 Links
 
-- **Live Site:** https://dev-stack-website-ph-a5.vercel.app
+- **Live Site:** https://dev-stack-website-ph-a5.vercel.app/
 - **GitHub:** https://github.com/FayroSyrup/dev-stack-website-PH-A5
 
 ## 🛠️ Technologies Used
