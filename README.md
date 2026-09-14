@@ -25,7 +25,7 @@ A modern, responsive web application where developers can explore popular techno
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/napaSyrup-r/dev-stack-website-PH-A5.git
+git clone https://github.com/FayroSyrup/dev-stack-website-PH-A5.git
 cd dev-stack-website-PH-A5
 npm install
 npm run dev
