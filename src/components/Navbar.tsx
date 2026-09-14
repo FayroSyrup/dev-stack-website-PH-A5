@@ -19,8 +19,7 @@ const Navbar = () => {
 
       <div className="container mx-auto px-6 h-16 hidden md:flex items-center justify-between">
         <a href="#" className="flex items-center gap-2">
-          <img src={logo} alt="Dev Stack Logo" className="h-8 w-8" />
-          <span className="font-bold text-xl text-gray-900">Dev Stack</span>
+          <img src={logo} alt="Dev Stack Logo" className="h-8 w-30" />
         </a>
 
         <ul className="flex items-center gap-7">
